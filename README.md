@@ -1,5 +1,5 @@
 # Data-Duplication
-DupliCleaner is a simple and powerful python package whose GUI made in Tkinter. The software allows you to clean all the duplicated files in a directory (and subdirectories). It deletes files like images, videos, texts, musics, etc.  
+DupliCleaner is a simple and powerful python package whose GUI made in Tkinter. The software allows you to clean all the duplicated files in a directory (and subdirectories). It deletes files like images, videos, texts, music, etc.  
 
 Installation 
 
