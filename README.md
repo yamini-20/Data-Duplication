@@ -5,7 +5,8 @@ Installation
 
 Extract the .zip file from the github repository using git
 
-Open the folder in the Command Line and Type: python3 main.py  
+Open the folder in the Command Line and 
+Type: python3 main.py  
 
 Click on SELECT button for browsing through your PC 
 
