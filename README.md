@@ -1,18 +1,34 @@
-# Data-Duplication
-DupliCleaner is a simple and powerful python package whose GUI made in Tkinter. The software allows you to clean all the duplicated files in a directory (and subdirectories). It deletes files like images, videos, texts, music, etc.  
+# Duplicates Cleaner (DD)
 
-Installation 
+Duplicates Cleaner is a simple and powerful python package that ships with a GUI made in Tkinter. The sfotware allows you to delete & clean all the duplicated files in a directory (and subdirectories). It deletes every type of file like music, videos, images, texts etc...
+Hope you enjoy it & save some valuable time!
 
-Extract the .zip file from the github repository using git
+<p align="center">
+  <img src="http://tiny.cc/gv1ilz">
+  <p align="center">A preview screenshot of the program</p>
+</p>
 
-Open the folder in the Command Line and 
-Type: python3 main.py  
+## Installation
 
-Click on SELECT button for browsing through your PC 
+1. Extract the .zip file from the github repository using git or via website
+2. Open the folder in the Command Line
+3. Type:
+```bash
+python3 main.py
+```
+4. Enjoy the program! I suggest to add it to your favourite programs so you don't have to always open the Command Line
 
-Click CLEAN to start cleaning 
+## Usage
+1. Open the program
+2. Browse trough the folders in your pc trough the SELECT button
+3. Choose a folder to clean
+4. Click CLEAN to start cleaning
+5. Enjoy the result!
 
-Enjoy the result!
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License 
-MIT
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
